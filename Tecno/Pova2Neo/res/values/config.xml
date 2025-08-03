@@ -1,1 +1,50 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="config_allow_ussd_over_ims">true</bool>
+    <bool name="config_device_volte_available">false</bool>
+    <bool name="config_device_vt_available">false</bool>
+    <bool name="config_device_wfc_ims_available">false</bool>
+    <bool name="config_enableMultiUserUI">true</bool>
+	<bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <bool name="config_hotswapCapable">true</bool>
+	<bool name="config_setColorTransformAccelerated">true</bool>
+	<bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
+    <bool name="config_unplugTurnsOnScreen">true</bool>
+	<bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="skip_restoring_network_selection">true</bool>
+    <bool name="zzzzz_config_textAllCaps_os">false</bool>
+	<dimen name="lock_pattern_dot_line_width">12.0dip</dimen>
+    <dimen name="lock_pattern_dot_size">10.0dip</dimen>
+    <dimen name="lock_pattern_dot_size_activated">16.0dip</dimen>
+    <dimen name="navigation_bar_height">40.0dip</dimen>
+    <dimen name="navigation_bar_height_landscape">40.0dip</dimen>
+    <dimen name="quick_qs_offset_height">36.0dip</dimen>
+    <dimen name="quick_qs_total_height">164.0dip</dimen>
+    <dimen name="resolver_max_collapsed_height">342.0dip</dimen>
+    <dimen name="resolver_max_collapsed_height_with_tabs">390.0dip</dimen>
+    <dimen name="rounded_corner_radius">32.0dip</dimen>
+    <dimen name="status_bar_height_landscape">28.0dip</dimen>
+    <dimen name="status_bar_height_portrait">36.0dip</dimen>
+    <dimen name="toast_y_offset">72.0dip</dimen>
+	<integer name="config_autoGroupAtCount">4</integer>
+    <integer name="config_maxNumVisibleRecentTasks">9</integer>
+    <integer name="config_minNumVisibleRecentTasks">-1</integer>
+    <integer name="config_multiuserMaximumUsers">1</integer>
+    <integer name="zzzzz_os_lock_pattern_dot_line_alpha">76</integer>
+	<string name="config_defaultDialer">com.sh.smart.caller</string>
+    <string name="config_defaultModuleMetadataProvider">com.google.android.modulemetadata</string>
+    <string name="config_mainBuiltInDisplayCutout">M -24,0 L -24,36 L 24,36 L 24,0 Z @dp</string>
+    <string name="config_mms_user_agent">Android-Mms/0.1</string>
+    <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+    <string name="config_qualified_networks_service_package">com.android.phone</string>
+    <string name="config_rawContactsLocalAccountName">Phone</string>
+    <string name="config_rawContactsLocalAccountType">Local Phone Account</string>
+    <string name="config_recentsComponentName">com.transsion.hilauncher.upgrade/com.android.quickstep.recents_ui_overrides.src.com.android.quickstep.RecentsActivity</string>
+    <string name="config_wallpaperCropperPackage">com.android.wallpaperpicker</string>
+    <string name="config_wlan_data_service_class">com.mediatek.internal.telephony.dataconnection.IwlanDataService</string>
+    <string name="config_wlan_data_service_package">com.android.phone</string>
+    <string name="config_wlan_network_service_class">com.mediatek.internal.telephony.IWlanNetworkService</string>
+    <string name="config_wlan_network_service_package">com.android.phone</string>
+    <string name="default_browser">com.talpa.hibrowser</string>
+    <string name="default_galler">com.gallery20</string>
+</resources>
